@@ -1,6 +1,6 @@
 # Dakota (dak)
 
-Contains Dakota paradigms 
+Contains Dakota paradigms (verbs)
 
 ## Data
 
